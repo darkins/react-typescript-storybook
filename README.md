@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### `yarn install`
+Run yarn install to get all of the dev dependencies.
+
+### `npx -p @storybook/cli sb init`
+Run the above command to initialize storybook into your code.
+
 ## Available Scripts
 
 In the project directory, you can run:
