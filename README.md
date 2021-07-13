@@ -15,7 +15,8 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `yarn storybook`
-Run yarn storybook to open [http://localhost/6006] (http://localhost:6006/)
+Runs storybook in the develoment mode.\ 
+Open [http://localhost/6006](http://localhost:6006/) to view it in the browser.
 
 ### `yarn test`
 
